@@ -1,4 +1,4 @@
-package The_IoC_Container.Annotation_based_Container_Configuration;
+package The_IoC_Container.Classpath_Scanning_and_Managed_Components;
 
 import org.springframework.context.annotation.ScopedProxyMode;
 import org.springframework.stereotype.Service;
